@@ -1,2 +1,2 @@
 # numpy-exercise
-Collection of numpy practice exercises.
+Collection of numpy practice exercises with solution.
